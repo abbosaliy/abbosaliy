@@ -14,7 +14,7 @@ Ich bin ein kreativer und flexibler Webentwickler, der seine Fähigkeiten im Fro
 Ich liebe es, innovative Lösungen zu entwickeln und jedes Projekt mit Leidenschaft und Präzision umzusetzen.
 </p>
 
-🛠️ Mein Tech-Stack
+
 
 <h2>Tools & Technologien</h2>
 
