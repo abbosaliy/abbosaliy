@@ -8,7 +8,7 @@
 </h2>
 
 
-<h2>🚀 NEUGIERIGER FRONTEND-ENTWICKLER</h2>
+<h2>🚀 NEUGIERIGER   FRONTEND-ENTWICKLER</h2>
 
   
 <p>
